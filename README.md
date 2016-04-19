@@ -19,9 +19,9 @@
  <https://docs.google.com/spreadsheets/d/14e-jP6SuGkg2Eics88hn8JmJtZPPhpgG1JBt3XrqrtI/edit#gid=0>
 
 
-*kumamoto_hinanjyo.csv  ジオコーディング前のCSVファイル
-*kumamoto_hinanjyo_r.csv　　ジオコーディング後のCSVファイル
-*kuamoto_hinanjyo.geojson　 ジオコーディング後CSVファイルをQGISでgeojson に変換したもの
+* kumamoto_hinanjyo.csv  ジオコーディング前のCSVファイル
+* kumamoto_hinanjyo_r.csv　　ジオコーディング後のCSVファイル
+* kuamoto_hinanjyo.geojson　 ジオコーディング後CSVファイルをQGISでgeojson に変換したもの
 
 ###  QGIS
  <http://qgis.org/ja/site/>
