@@ -10,3 +10,9 @@ https://docs.google.com/spreadsheets/d/14mJE_jmy2Jg9QNDyD0qVuqHNRn5WgYWKi40kWvwQ
 
 作業用データ　（19日11時30分時点ぐらいの元データでやっています）
 https://docs.google.com/spreadsheets/d/14e-jP6SuGkg2Eics88hn8JmJtZPPhpgG1JBt3XrqrtI/edit#gid=0
+
+
+kumamoto_hinanjyo.csv  ジオコーディング前のCSVファイル
+kumamoto_hinanjyo_r.csv　　ジオコーディング後のCSVファイル
+kuamoto_hinanjyo.geojson　 ジオコーディング後CSVファイルをQGISでgeojson に変換したもの
+
