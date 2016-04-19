@@ -23,5 +23,11 @@
 *kumamoto_hinanjyo_r.csv　　ジオコーディング後のCSVファイル
 *kuamoto_hinanjyo.geojson　 ジオコーディング後CSVファイルをQGISでgeojson に変換したもの
 
+###  QGIS
+ <http://qgis.org/ja/site/>
+ 
+*座標付きCSVファイルをQGISのレイヤとして読み込む（デリミテッドテキストレイヤとして取り込む）
+*作成されたレイヤを選択して「名前をつけて保存」を行う。このときダイアログで保存形式をgeojsonにする。文字コードをUTF-8に指定しておく必要あり
+
 ### Google MyMap上での表示
  <https://www.google.com/maps/d/u/0/edit?mid=zTITpaHM4Qn8.kkz8LVwMWFTE>
